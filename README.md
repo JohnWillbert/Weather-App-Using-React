@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite`
 
 Live demo: https://johnwillbert.github.io/Weather-App-Using-React/
 
